@@ -2,7 +2,7 @@ from databricks.sdk import WorkspaceClient
 import pg8000.native
 
 WORKSPACE_HOST = "https://dbc-2929c64b-be24.cloud.databricks.com"
-WORKSPACE_PROFILE = "foodguard-ai"
+WORKSPACE_PROFILE = "foodguard_ai"
 PG_HOST = "ep-plain-shape-d84tfnic-pooler.database.us-east-2.cloud.databricks.com"
 PG_DATABASE = "foodguard"
 PG_USER = "yashwanth.t@ganitinc.com"
