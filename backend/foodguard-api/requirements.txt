@@ -1,0 +1,4 @@
+databricks-sdk>=0.89.0
+pg8000>=1.31,<2
+requests>=2.28.1
+sqlalchemy==2.0.36
